@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-api",
+  "version": "0.0.1",
+  "description": "Express.js - Primeros Pasos, servidor node.js, Middlewares, Carga de Archivos con Multer,",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMFP8585/proyecto-api.git"
+  },
+  "author": "Cesar Flores <cesar8585@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CMFP8585/proyecto-api/issues"
+  },
+  "homepage": "https://github.com/CMFP8585/proyecto-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
